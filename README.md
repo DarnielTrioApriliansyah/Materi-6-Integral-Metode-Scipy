@@ -1,1 +1,0 @@
-# Materi-6-Integral-Metode-Scipy
